@@ -74,9 +74,11 @@ Compile the putty.py into a binary with no dependencies using pyinstaller or any
 refer to: 
 https://youtu.be/lOIJIk_maO4
 
-## TO ADMINISTER ON MAC OSX
+### TO ADMINISTER ON MAC OSX
 For now it is a little tricky but i am working on simplifying it.
 the simplest thing you can do right now ,provided the system has python installed is run the script in .py format on the mac system. it will automatically copy itself to the Documents folder and make a cronjob for it to run on every reboot so u don't have to run it  again.
+
+
 
 # UPDATES
 ----
