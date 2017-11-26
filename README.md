@@ -55,7 +55,7 @@ git clone https://github.com/neiltyagi/AARAGOG-BOTNET.git
 
 To launch the mothership go to the installed folder and type
 ```python
-serverbotnet.py <ip address> <port>
+python serverbotnet.py <ip address> <port>
 ```
 THE IP ADDRESS MUST BE YOUR LOCAL IP IF YOU WANT TO USE IN LAN.
 TO USE IN WAN USE YOUR GLOBAL IP WITH APPROPRIATE PORT FORWARDING ON THE ROUTER.
